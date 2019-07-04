@@ -39,6 +39,12 @@ inclua uma seção para créditos, a fim de destacar e vincular os autores do se
 
 Por fim, inclua uma seção para a licença do seu projeto. Para mais informações sobre como escolher uma licença, confira o guia de licenciamento do GitHub!
 
+# Use recursos adicionais
+
+Para montar seu README de forma mais bonita, clara e concisa, use ferramentas disponíveis. O [GITHUB MAKUP]( https://github.com/github/markup#github-markup). Esta biblioteca é a primeira etapa de uma jornada que todo arquivo de marcação em um repositório ocorre antes de ser renderizado no GitHub.
+O Arquivo README pode ser feito em HTML caso você tenha conhecimento ou se não tiver use algum editor on-line como o [html on-line](https://html-online.com/editor/)
+Outro recurso é o uso de Templates prontos. Existem diversos para escolher. Os [Templates de README](https://github.com/nayafia/contributing-template) são um bom exemplo. Use e abuse das ideias.
+
 Seu README deve conter apenas as informações necessárias para os desenvolvedores começarem a usar e contribuir com seu projeto. A documentação mais longa é mais adequada para wikis.
 
 # Créditos deste README

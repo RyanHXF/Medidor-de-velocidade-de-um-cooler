@@ -1,42 +1,12 @@
-  Formatando seu README
-
-    Mesmo com a demanda de desenvolvimento de códigos que exigem dinâmica de documentação mais ágil, o arquivo README continua sendo um   dos principais documentos de um projeto de software. Os READMEs geralmente seguem um formato para orientar imediatamente os desenvolvedores para os aspectos mais importantes do seu projeto. 
-  Com o uso de plataformas abertas como o GitHub, o arquivo README está deixando de ser apenas um documento e servindo também como um cartão de visita. Alguns pontos são essenciais para o propósito principal de divulgação.
-
-    Título ou nome do projeto
-
-    No título ou na descrição você pode colocar o número da versão do projeto, como também a placa de desenvolvimento usada. O nome do seu projeto é a primeira coisa que as pessoas verão ao rolar para baixo até o seu README e é incluído na criação do arquivo README.
-
-    Descrição
-    
-    Segue uma descrição do seu projeto. Uma boa descrição é clara, curta e direta. Descreva a importância do seu projeto e o que ele faz.
-
-    Sumário 
-    
-    Opcionalmente, inclua um índice para permitir que outras pessoas naveguem rapidamente em LEIA-MEs, especialmente longos ou detalhados.
-    
-    Pré-requisitos
-        
-    Como num artigo científico, deve-se descrever as ferramentas usadas: qual compilador, biblioteca, IDE, sistema operacional, etc. foram usados? Caso contrário o código pode ser visto como algo que funciona somente na teoria e não vai atrair a atenção de quem está lendo.
-
-    Instalação
-    
-   A instalação é a próxima seção de um README efetivo. Diga aos outros usuários como instalar seu projeto localmente. Opcionalmente, inclua um gif para tornar o processo ainda mais claro para outras pessoas.
-
-    Uso
-    
-    A próxima seção é o uso, na qual você instrui outras pessoas sobre como usar seu projeto depois de instalá-lo. Isso também seria um bom lugar para incluir capturas de tela do seu projeto em ação.
-
-    Contribuindo
-    
-    Projetos maiores geralmente têm seções sobre como contribuir para o projeto, no qual as instruções de contribuição são descritas. Às vezes, este é um arquivo separado. Se você tiver preferências de contribuição específicas, explique-as para que outros desenvolvedores saibam a melhor maneira de contribuir para o seu trabalho. Para saber mais sobre como ajudar os outros a contribuir, confira o guia para definir diretrizes para os contribuidores do repositório.
-
-    Créditos
-    
-    inclua uma seção para créditos, a fim de destacar e vincular os autores do seu projeto.
-
-    Licença
-    
-    Por fim, inclua uma seção para a licença do seu projeto. Para mais informações sobre como escolher uma licença, confira o guia de licenciamento do GitHub!
-
-Seu README deve conter apenas as informações necessárias para os desenvolvedores começarem a usar e contribuir com seu projeto. A documentação mais longa é mais adequada para wikis.
+ <p><strong>Formatando seu README</strong></p>
+<p>Mesmo com a demanda de desenvolvimento de c&oacute;digos que exigem din&acirc;mica de documenta&ccedil;&atilde;o mais &aacute;gil, o arquivo README continua sendo um dos principais documentos de um projeto de software. Os READMEs geralmente seguem um formato para orientar imediatamente os desenvolvedores para os aspectos mais importantes do seu projeto. <br /> Com o uso de plataformas abertas como o GitHub, o arquivo README est&aacute; deixando de ser apenas um documento e servindo tamb&eacute;m como um cart&atilde;o de visita. Alguns pontos s&atilde;o essenciais para o prop&oacute;sito principal de divulga&ccedil;&atilde;o.</p>
+<p><strong>T&iacute;tulo ou nome do projeto</strong></p>
+<p>No t&iacute;tulo ou na descri&ccedil;&atilde;o voc&ecirc; pode colocar o n&uacute;mero da vers&atilde;o do projeto, como tamb&eacute;m a placa de desenvolvimento usada. O nome do seu projeto &eacute; a primeira coisa que as pessoas ver&atilde;o ao rolar para baixo at&eacute; o seu README e &eacute; inclu&iacute;do na cria&ccedil;&atilde;o do arquivo README.</p>
+<p><strong>Descri&ccedil;&atilde;o</strong><br /> <br /> Segue uma descri&ccedil;&atilde;o do seu projeto. Uma boa descri&ccedil;&atilde;o &eacute; clara, curta e direta. Descreva a import&acirc;ncia do seu projeto e o que ele faz.</p>
+<p><strong>Sum&aacute;rio</strong> <br /> <br /> Opcionalmente, inclua um &iacute;ndice para permitir que outras pessoas naveguem rapidamente em LEIA-MEs, especialmente longos ou detalhados.<br /> <br /><strong> Pr&eacute;-requisitos</strong><br /> <br /> Como num artigo cient&iacute;fico, deve-se descrever as ferramentas usadas: qual compilador, biblioteca, IDE, sistema operacional, etc. foram usados? Caso contr&aacute;rio o c&oacute;digo pode ser visto como algo que funciona somente na teoria e n&atilde;o vai atrair a aten&ccedil;&atilde;o de quem est&aacute; lendo.</p>
+<p><strong>Instala&ccedil;&atilde;o</strong><br /> <br /> A instala&ccedil;&atilde;o &eacute; a pr&oacute;xima se&ccedil;&atilde;o de um README efetivo. Diga aos outros usu&aacute;rios como instalar seu projeto localmente. Opcionalmente, inclua um gif para tornar o processo ainda mais claro para outras pessoas.</p>
+<p><strong>Uso</strong><br /> <br /> A pr&oacute;xima se&ccedil;&atilde;o &eacute; o uso, na qual voc&ecirc; instrui outras pessoas sobre como usar seu projeto depois de instal&aacute;-lo. Isso tamb&eacute;m seria um bom lugar para incluir capturas de tela do seu projeto em a&ccedil;&atilde;o.</p>
+<p><strong>Contribuindo</strong><br /> <br /> Projetos maiores geralmente t&ecirc;m se&ccedil;&otilde;es sobre como contribuir para o projeto, no qual as instru&ccedil;&otilde;es de contribui&ccedil;&atilde;o s&atilde;o descritas. &Agrave;s vezes, este &eacute; um arquivo separado. Se voc&ecirc; tiver prefer&ecirc;ncias de contribui&ccedil;&atilde;o espec&iacute;ficas, explique-as para que outros desenvolvedores saibam a melhor maneira de contribuir para o seu trabalho. Para saber mais sobre como ajudar os outros a contribuir, confira o guia para definir diretrizes para os contribuidores do reposit&oacute;rio.</p>
+<p><strong>Cr&eacute;ditos</strong><br /> <br /> inclua uma se&ccedil;&atilde;o para cr&eacute;ditos, a fim de destacar e vincular os autores do seu projeto.</p>
+<p><strong>Licen&ccedil;a</strong><br /> <br /> Por fim, inclua uma se&ccedil;&atilde;o para a licen&ccedil;a do seu projeto. Para mais informa&ccedil;&otilde;es sobre como escolher uma licen&ccedil;a, confira o guia de licenciamento do GitHub!</p>
+<p>Seu README deve conter apenas as informa&ccedil;&otilde;es necess&aacute;rias para os desenvolvedores come&ccedil;arem a usar e contribuir com seu projeto. A documenta&ccedil;&atilde;o mais longa &eacute; mais adequada para wikis.</p>

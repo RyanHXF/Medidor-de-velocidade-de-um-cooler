@@ -48,7 +48,7 @@ O Arquivo README pode ser feito em HTML caso você tenha conhecimento ou se não
 Outro recurso é o uso de Templates prontos. Existem diversos para escolher. Os [Templates de README](https://github.com/nayafia/contributing-template) são um bom exemplo. Use e abuse das ideias.
 
 Seu README deve conter apenas as informações necessárias para os desenvolvedores começarem a usar e contribuir com seu projeto. A documentação mais longa é mais adequada para wikis.
-* ** Seja conciso. ** A adição de muitos detalhes pode, na verdade, tornar as pessoas menos propensas a ler o seu guia, o que prejudicará o objetivo.
+** Seja conciso. ** A adição de muitos detalhes pode, na verdade, tornar as pessoas menos propensas a ler o seu guia, o que prejudicará o objetivo.
 
 # Créditos deste README
 

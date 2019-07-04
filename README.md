@@ -43,4 +43,7 @@ Seu README deve conter apenas as informações necessárias para os desenvolvedo
 
 # Créditos deste README
 
-https://www.embarcados.com.br/o-que-escrever-num-readme/
+[Site Embarcados](https://www.embarcados.com.br/o-que-escrever-num-readme/)
+[Templates de README](https://github.com/nayafia/contributing-template)
+[Tutoriais GITHUB](https://guides.github.com/features/wikis/)
+

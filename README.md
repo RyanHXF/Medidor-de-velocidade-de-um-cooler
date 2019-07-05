@@ -49,7 +49,7 @@ Outro recurso é o uso de Templates prontos. Existem diversos para escolher. Os 
 
 Seu README deve conter apenas as informações necessárias para os desenvolvedores começarem a usar e contribuir com seu projeto. A documentação mais longa é mais adequada para wikis.
 
-** Seja conciso. ** A adição de muitos detalhes pode, na verdade, tornar as pessoas menos propensas a ler o seu guia, o que prejudicará o objetivo.
+Finalmente, **Seja conciso.** A adição de muitos detalhes pode, na verdade, tornar as pessoas menos propensas a ler o seu guia, o que prejudicará o objetivo.
 
 # Créditos deste README
 

@@ -1,4 +1,4 @@
-// Projeto 46 – Visualizando rpm do cooler com arduino
+// Visualizando rpm do cooler com arduino
 
 // Variáveis usadas para os cálculos
 int NbTopsFan; 

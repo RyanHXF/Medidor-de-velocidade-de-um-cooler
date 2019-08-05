@@ -1,16 +1,16 @@
-// Visualizando rpm do cooler com arduino
+//– Visualizando rpm do cooler com arduino
 
 // Variáveis usadas para os cálculos
-int NbTopsFan; 
+int NbTopsFan; 
 int Calc;
 
 // Pino utilizado para a leitura no sensor de rotação do cooler
-int hallSensor = 2; 
+int hallSensor = 2; 
 typedef struct{
 
 // Define a estrutura para vários fãs e os divisores
 char fanType;
-unsigned int fanDiv; 
+unsigned int fanDiv; 
 }
 
 fanspec;
@@ -19,7 +19,7 @@ fanspec;
 // Esta é a variável usada para selecionar o cooler e seu divisor,
 // 1 para o sensor de efeito Hall unipolar
 // E 2 para o sensor de efeito Hall bipolar
-fanspec fanspace[3]={{0,1},{1,2},{2,8}}; 
+fanspec fanspace[3]={{0,1},{1,2},{2,8}}; 
 char fan = 1;
 
 void rpm ()
@@ -33,7 +33,7 @@ void setup(){
 
 pinMode(hallSensor, INPUT);
 Serial.begin(9600);
-attachInterrupt(0, rpm, RISING); 
+attachInterrupt(0, rpm, RISING); 
 }
 
 void loop (){
@@ -50,7 +50,7 @@ delay (1000);
 // Desabilita as interrupções
 cli();
 
-// Número de NbTopsFan (que é aproximadamente a freqüência que o 
+// Número de NbTopsFan (que é aproximadamente a freqüência que o 
 //cooler está girando) por 60 segundos antes de dividir pelo divisor de fãs
 Calc = ((NbTopsFan * 60)/fanspace[fan].fanDiv);
 
@@ -60,6 +60,3 @@ Serial.print (Calc, DEC);
 // Imprimi no Serial Monitor "RPM" e uma nova linha
 Serial.print (" RPM\r\n");
 }
-
-// Obs.: Para desativar as interrupções: cli (); desativar interrupções globais e 
-//para habilitá-los: sei (); habilitar as interrupções;

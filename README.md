@@ -59,3 +59,4 @@ Outro recurso é o uso de Templates prontos. Existem diversos para escolher. Os 
 * [Templates de README- Nadia Eghbal](https://github.com/nayafia/contributing-template)
 * [Tutoriais GITHUB](https://guides.github.com/features/wikis/)
 
+<p><img src="file:///C:/Users/Aluno/Desktop/Diagrama.png" alt="Diagrama" /></p>

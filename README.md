@@ -1,3 +1,4 @@
+<h1><strong>Medidor de velocidade de cooler</strong></h1>
 <p>Esse projeto capta os sinais do cooler e convertermos estes sinais de forma a visualizarmos a quantidade de rota&ccedil;&otilde;es por minuto que o mesmo esta trabalhando no momento. Devemos alimentar o cooler com um fonte externa, visto que o Arduino n&atilde;o foi projetado para alimentar motores.</p>
 <h2>COMPONENTES NECESS&Aacute;RIOS</h2>
 <p>1 Arduino Uno R3</p>
